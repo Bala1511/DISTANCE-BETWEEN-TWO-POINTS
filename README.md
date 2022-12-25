@@ -10,9 +10,11 @@ import math as m and form the list
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
+and give the values in the list
 ### Step 5: 
+and print the values
 ### PROGRAM:
- #Program to find the distance between two points.
+#Program to find the distance between two points.
  ```
 #Developed by: Balamurugan
 #RegisterNumber:22008625
