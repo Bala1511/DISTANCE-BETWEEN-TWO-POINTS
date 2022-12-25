@@ -25,8 +25,6 @@ d=m.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
 print("{:.2f}".format(d))
 
  ``` 
-
-
 ### OUTPUT:
 ![output](distancebetweentwopoint.png)
 
